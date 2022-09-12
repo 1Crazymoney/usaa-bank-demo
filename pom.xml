@@ -8,8 +8,8 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.usaa.application-demo</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.usaa</groupId>
+	<artifactId>applicationdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
 	<description>Demo project for USAA</description>
