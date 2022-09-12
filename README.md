@@ -15,6 +15,8 @@ Additionally, it performs basic error handling such as:
 - Credit Card Accounts must have credit limits between $500-$50,000
 - Transactions will not proceed if they exceed available remaining credit
 
+[Demo](https://user-images.githubusercontent.com/2651238/189585990-b367045d-93ea-45d4-a811-175c0f606ad1.webm)
+
 ## To Install and Run Locally
 ```bash
 git clone git@github.com:joshfreemanIO/usaa-bank-demo.git
